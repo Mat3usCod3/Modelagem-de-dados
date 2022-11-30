@@ -1,2 +1,2 @@
-# Data-Modeling
-Set of data modeling exercices: images.PNG
+# 🌐 Data Modeling
+Set of data modeling exercices: *images.PNG*.
