@@ -1,6 +1,6 @@
-<div style="inline_block">
+<div style="display: inline_block">
   <h1>Modelagem de dados utilizando Mysql Workbench</h1>
-  
+  <img align="center" alt="Mateus-ícon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## Fábrica de picolés 
