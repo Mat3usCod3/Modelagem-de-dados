@@ -25,4 +25,13 @@ ministrar para várias turmas, e toda turma tem obrigatoriamente um professor. O
 Tanto os professores quanto os funcionários podem decidir se matricular em um curso da universidade, com as devidas restrições. A base de
 dados deve permitir a geração de listas de notas para cada turma, onde deve constar com que professor um aluno fez qual disciplina.
 
+## Clínica
+Em uma clínica trabalham médicos de diversas especialidades. Cada médico é identificado pelo seu CRM, possui um nome e recebe 
+um salário na clínica. Um médico pode ter formação em diversas especialidades (ortopedia, traumatologia, etc) mas só exerce uma 
+delas na clínica. Para todo paciente internado na clínica são cadastrados alguns dados pessoais: nome, RG, CPF, endereço, telefone(s) 
+para contato e data de nascimento. Um paciente tem sempre um determinado médico como responsável (com um horário de visita 
+diário predeterminado), porém vários outros médicos podem participar do seu tratamento. Pacientes estão sempre internados em 
+quartos individuais, que são identificados por um número e ficam em um andar da clínica. 
+
+
 
