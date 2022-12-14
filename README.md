@@ -31,7 +31,16 @@ um salário na clínica. Um médico pode ter formação em diversas especialidad
 delas na clínica. Para todo paciente internado na clínica são cadastrados alguns dados pessoais: nome, RG, CPF, endereço, telefone(s) 
 para contato e data de nascimento. Um paciente tem sempre um determinado médico como responsável (com um horário de visita 
 diário predeterminado), porém vários outros médicos podem participar do seu tratamento. Pacientes estão sempre internados em 
-quartos individuais, que são identificados por um número e ficam em um andar da clínica. 
+quartos individuais, que são identificados por um número e ficam em um andar da clínica.
+
+## Garagem
+Uma	 garagem	 para	 estacionamento	 de	 veículos	 pretende	 implementar	 um	 sistema	 que	 lhe	 permita	 administrar	 a	 informação	 relativa	 ao	
+estacionamento	dos	seus	clientes.	A	garagem	é	composta	por	um	conjunto	de	vagas	cada	uma	podendo	estar	ocupada	ou	não.	Há	dois	tipos	de	
+vagas:	avulsa	(se	houver	disponibilidade)	ou	mensal.	Cada	vaga	tem	um	preço	–	a	avulso	tem	um	custo	por	hora	e	o	mensal	um	custo	fixo.	Os	
+preços	 serão	 diferenciados	 de	acordo	com	 o	tipo	 de	veículo:	automóvel	 ou	moto.	Cada	vaga	mensal	 possui	 um	cliente	associado. Para	cada	
+cliente	é	registrado	seu	nome	e	CPF,	sendo	que	um	dado	cliente	pode	contratar	várias	vagas	mensais.	A	cada	vez	que	um	cliente	estacionar	um	
+veículo	(fizer	uma	estacionagem),	deverá	se	armazenar	o	CPF	do	cliente,	código	da	vaga,	a	data/hora	de	entrada	e	de	saída,	a	placa	do	veículo	
+estacionado	e	o	custo	gerado	(que	pode	ser	0	para	clientes	mensais).
 
 
 
