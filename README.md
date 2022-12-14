@@ -3,7 +3,7 @@
   <img align="center" alt="Mateus-ícon" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-## Fábrica de picolés 
+## Fábrica de picolés
 Uma empresa fabricante de picolés deseja armazenar informações acerca de seus negócios. Os
 picolés fabricados são divididos em normal (com água) e ao leite. As informações comuns
 armazenadas dos picolés são: sabor, ingredientes, preço e tipo da embalagem. Especificamente, picolés normais possuem um conjunto de aditivos nutritivos (vitaminas ou sais minerais) cada
