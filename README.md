@@ -4,6 +4,7 @@
 </div>
 
 ## Fábrica de picolés
+
 Uma empresa fabricante de picolés deseja armazenar informações acerca de seus negócios. Os
 picolés fabricados são divididos em normal (com água) e ao leite. As informações comuns
 armazenadas dos picolés são: sabor, ingredientes, preço e tipo da embalagem. Especificamente, picolés normais possuem um conjunto de aditivos nutritivos (vitaminas ou sais minerais) cada
@@ -14,6 +15,7 @@ do revendedor o CNPJ e a razão social. Deseja-se obter relatórios sobre as ven
 picolés de cada tipo e quais revendedores compraram mais picolés nos últimos meses.
 
 ## Faculdade 
+
 Uma faculdade oferece vários cursos cujos currículos são compostos por diversas disciplinas. Cada disciplina pode ser oferecida para vários
 cursos distintos; uma disciplina pode ter outras disciplinas como pré-requisitos em série ou em paralelo. Na faculdade há diferentes tipos de
 pessoas identificadas por um único número funcional: os alunos, professores e funcionários – cada qual com seus atributos gerais e específicos
@@ -25,6 +27,7 @@ Tanto os professores quanto os funcionários podem decidir se matricular em um c
 dados deve permitir a geração de listas de notas para cada turma, onde deve constar com que professor um aluno fez qual disciplina.
 
 ## Clínica
+
 Em uma clínica trabalham médicos de diversas especialidades. Cada médico é identificado pelo seu CRM, possui um nome e recebe 
 um salário na clínica. Um médico pode ter formação em diversas especialidades (ortopedia, traumatologia, etc) mas só exerce uma 
 delas na clínica. Para todo paciente internado na clínica são cadastrados alguns dados pessoais: nome, RG, CPF, endereço, telefone(s) 
@@ -33,6 +36,7 @@ diário predeterminado), porém vários outros médicos podem participar do seu 
 quartos individuais, que são identificados por um número e ficam em um andar da clínica.
 
 ## Garagem
+
 Uma	 garagem	 para	 estacionamento	 de	 veículos	 pretende	 implementar	 um	 sistema	 que	 lhe	 permita	 administrar	 a	 informação	 relativa	 ao	
 estacionamento	dos	seus	clientes.	A	garagem	é	composta	por	um	conjunto	de	vagas	cada	uma	podendo	estar	ocupada	ou	não.	Há	dois	tipos	de	
 vagas:	avulsa	(se	houver	disponibilidade)	ou	mensal.	Cada	vaga	tem	um	preço	–	a	avulso	tem	um	custo	por	hora	e	o	mensal	um	custo	fixo.	Os	
@@ -41,5 +45,15 @@ cliente	é	registrado	seu	nome	e	CPF,	sendo	que	um	dado	cliente	pode	contratar	v
 veículo	(fizer	uma	estacionagem),	deverá	se	armazenar	o	CPF	do	cliente,	código	da	vaga,	a	data/hora	de	entrada	e	de	saída,	a	placa	do	veículo	
 estacionado	e	o	custo	gerado	(que	pode	ser	0	para	clientes	mensais).
 
+## Pizzaria
+
+Uma pizzaria de tele-entrega apresenta um cardápio composto por diversos tipos de pizza, cujos dados são: número do item, nome da 
+pizza, lista de ingredientes e preços das pizzas pequena, média e grande, como por exemplo: (12, francesa, (queijo, presunto, 
+champignon, aspargo), 10.00, 15.00, 18.00). Na pizzaria trabalham funcionários que emitem pedidos de pizzas. Cada pedido possui 
+um número e uma data de emissão, além do nome, telefone e endereço do cliente que solicitou o pedido. Um pedido, emitido por 
+apenas um funcionário, é composto por vários itens: cada item possui um número e se refere a uma determinada pizza do cardápio, 
+em um determinado tamanho (pequena, média ou grande) e em uma certa quantidade. Dos funcionários entregadores (ou seja, 
+responsáveis pela entrega de um ou mais pedidos), deve-se saber o número do telefone celular para um eventual contato durante uma 
+entrega. Uma entrega destina-se a um bairro, e para cada bairro existe um tempo máximo de espera para a entrega de um pedido.
 
 
