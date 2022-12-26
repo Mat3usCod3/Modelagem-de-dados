@@ -14,6 +14,8 @@ possui uma pessoa de contato para eventuais resoluções de problemas, além dis
 do revendedor o CNPJ e a razão social. Deseja-se obter relatórios sobre as vendas mensais dos
 picolés de cada tipo e quais revendedores compraram mais picolés nos últimos meses.
 
+🖱 [Fábrica](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Fabrica_Picoles_IMG.png)
+
 ## Faculdade 
 
 Uma faculdade oferece vários cursos cujos currículos são compostos por diversas disciplinas. Cada disciplina pode ser oferecida para vários
