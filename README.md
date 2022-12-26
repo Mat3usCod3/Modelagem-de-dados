@@ -28,6 +28,8 @@ ministrar para várias turmas, e toda turma tem obrigatoriamente um professor. O
 Tanto os professores quanto os funcionários podem decidir se matricular em um curso da universidade, com as devidas restrições. A base de
 dados deve permitir a geração de listas de notas para cada turma, onde deve constar com que professor um aluno fez qual disciplina.
 
+🖱 [Faculdade](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Faculdade_IMG.png)
+
 ## Clínica
 
 Em uma clínica trabalham médicos de diversas especialidades. Cada médico é identificado pelo seu CRM, possui um nome e recebe 
@@ -36,6 +38,8 @@ delas na clínica. Para todo paciente internado na clínica são cadastrados alg
 para contato e data de nascimento. Um paciente tem sempre um determinado médico como responsável (com um horário de visita 
 diário predeterminado), porém vários outros médicos podem participar do seu tratamento. Pacientes estão sempre internados em 
 quartos individuais, que são identificados por um número e ficam em um andar da clínica.
+
+🖱 [Clínica](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Clinica_IMG.png)
 
 ## Garagem
 
@@ -47,6 +51,8 @@ cliente	é	registrado	seu	nome	e	CPF,	sendo	que	um	dado	cliente	pode	contratar	v
 veículo	(fizer	uma	estacionagem),	deverá	se	armazenar	o	CPF	do	cliente,	código	da	vaga,	a	data/hora	de	entrada	e	de	saída,	a	placa	do	veículo	
 estacionado	e	o	custo	gerado	(que	pode	ser	0	para	clientes	mensais).
 
+🖱 [Garagem](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Garagem_IMG.png)
+
 ## Pizzaria
 
 Uma pizzaria de tele-entrega apresenta um cardápio composto por diversos tipos de pizza, cujos dados são: número do item, nome da 
@@ -57,5 +63,19 @@ apenas um funcionário, é composto por vários itens: cada item possui um núme
 em um determinado tamanho (pequena, média ou grande) e em uma certa quantidade. Dos funcionários entregadores (ou seja, 
 responsáveis pela entrega de um ou mais pedidos), deve-se saber o número do telefone celular para um eventual contato durante uma 
 entrega. Uma entrega destina-se a um bairro, e para cada bairro existe um tempo máximo de espera para a entrega de um pedido.
+
+🖱 [Pizzaria](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Pizzaria_IMG.png)
+
+## Oficina mecânica
+
+Uma empresa de reparo de automóveis pretende implementar um sistema para administrar a informação relativa aos reparos efetuados nos 
+veículos de seus clientes. O sistema de informação deverá permitir manter um registro de todos os reparos efetuados. A empresa registra as 
+seguintes informações de cada cliente: código de identificação, nome, endereço, telefone. A informação relativa aos veículos que um dado cliente 
+teve ou tem e as datas em que fizeram o primeiro reparo, também são importantes. Em relação aos funcionários da oficina é necessário registrar a 
+seguinte informação: código de identificação, nome, endereço, telefone e categoria profissional. O custo/hora da mão-de-obra depende da 
+categoria do funcionário e é definido por meio de uma tabela que é atualizada regularmente. Em relação a cada reparo é necessário saber: qual 
+veículo, qual cliente, a data em que o reparo foi efetuado e o custo total do reparo. A empresa pretende saber para cada reparo quais peças foram 
+utilizadas e o seu preço, bem como o tempo de mão de obra gasto por cada funcionário e o respectivo custo. A informação relativa às peças em 
+estoque deverá ser: código de identificação, designação, custo unitário e quantidade armazenada.
 
 
