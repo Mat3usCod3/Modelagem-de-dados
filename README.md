@@ -66,6 +66,7 @@ entrega. Uma entrega destina-se a um bairro, e para cada bairro existe um tempo 
 
 🖱 [Pizzaria](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Pizzaria_IMG.png)
 
+
 ## Oficina mecânica
 
 Uma empresa de reparo de automóveis pretende implementar um sistema para administrar a informação relativa aos reparos efetuados nos 
@@ -78,4 +79,5 @@ veículo, qual cliente, a data em que o reparo foi efetuado e o custo total do r
 utilizadas e o seu preço, bem como o tempo de mão de obra gasto por cada funcionário e o respectivo custo. A informação relativa às peças em 
 estoque deverá ser: código de identificação, designação, custo unitário e quantidade armazenada.
 
+🖱 [Oficina mecânica](https://github.com/Mat3usCod3/Modelagem-de-dados/blob/main/Oficina_IMG.png)
 
